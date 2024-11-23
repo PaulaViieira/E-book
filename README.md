@@ -10,3 +10,5 @@ Prompt utilizados no CHATGP para gerar o conteúdo do e-book
 
 Prompt utilizados no Leonard.AI para gerar imagem da capa do e-book (Não foi possível utilizar o plano free do Midjourney)
 1.  crie uma imagem minimalista que represente do caos a ordem na vida financeira
+
+https://github.com/PaulaViieira/E-book   
